@@ -17,3 +17,5 @@ This is virtual cricket game having 2 teams with 5 players in each team and each
       ![second_innings](https://github.com/Prakram14/virtual-cricket-game/assets/105963616/2d9cea69-7d7e-4379-90af-4bee10a6d1d7)
 
    5. Final Score Card and Result:
+
+      ![ScoreCard](https://github.com/Prakram14/virtual-cricket-game/assets/105963616/91baa8ec-963e-4740-bba0-b3b840f42bf6)
