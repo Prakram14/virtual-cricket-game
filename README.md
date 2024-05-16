@@ -9,6 +9,7 @@ This is virtual cricket game having 2 teams with 5 players in each team and each
       ![two(team A and team B)](https://github.com/Prakram14/virtual-cricket-game/assets/105963616/98fff902-1521-42f3-b122-a640f763f487)
 
    3. First Innings Starts:
-      
 
-      
+      ![First_Innings](https://github.com/Prakram14/virtual-cricket-game/assets/105963616/eb91117d-2a04-4c67-a265-e18ccb658135)
+
+   4. Second Innings Starts:
